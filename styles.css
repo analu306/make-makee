@@ -8,10 +8,7 @@
     align-items: center;
 }
 
-.formulario-campo label{
-    font-family: fantasy;
-    font-weight: 400;
-}
+Esse seletor atinge todos os elementos <label> que estão dentro de um elemento com a classe .formulario-campo.
 
 .formulario-campo input,
 .formulario-campo select,
