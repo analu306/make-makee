@@ -43,4 +43,4 @@ Outros valores comuns:
 700 = negrito
 
 # JS: Ha algum recurso Javascript? 
-S
+sim, o js foi usado para valdar a pagina
