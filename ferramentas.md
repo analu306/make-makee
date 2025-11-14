@@ -42,4 +42,5 @@ Outros valores comuns:
 
 700 = negrito
 
-# JS: Ha algum recurso Javascript?
+# JS: Ha algum recurso Javascript? 
+S
